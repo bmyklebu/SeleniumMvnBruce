@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="warn" name="MyApp" packages="">
+  <Appenders>
+    <SMTP name="Mail" subject="Error Log" to="bmyklebu@googlemail.com" from="test@logging.apache.org"
+          smtpHost="localhost" smtpPort="25" bufferSize="50">
+    </SMTP>
+  </Appenders>
+  <Loggers>
+    <Root level="trace">
+      <AppenderRef ref="Mail"/>
+    </Root>
+  </Loggers>
+</Configuration>

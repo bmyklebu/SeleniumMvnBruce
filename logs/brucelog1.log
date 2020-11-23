@@ -1,0 +1,20 @@
+[INFO ] 2020-02-29 07:10:39.418 [main] Logging - info
+[ERROR] 2020-02-29 07:10:39.421 [main] Logging - error
+[WARN ] 2020-02-29 07:10:39.421 [main] Logging - warning
+[FATAL] 2020-02-29 07:10:39.421 [main] Logging - fatal message
+[INFO ] 2020-02-29 07:15:24.539 [main] Logging - info
+[ERROR] 2020-02-29 07:15:24.542 [main] Logging - error
+[WARN ] 2020-02-29 07:15:24.542 [main] Logging - warning
+[FATAL] 2020-02-29 07:15:24.542 [main] Logging - fatal message
+[INFO ] 2020-02-29 16:43:24.651 [main] Logging - info
+[ERROR] 2020-02-29 16:43:24.654 [main] Logging - error
+[WARN ] 2020-02-29 16:43:24.654 [main] Logging - warning
+[FATAL] 2020-02-29 16:43:24.655 [main] Logging - fatal message
+[INFO ] 2020-02-29 16:47:28.862 [main] Logging - info
+[ERROR] 2020-02-29 16:47:28.864 [main] Logging - error
+[WARN ] 2020-02-29 16:47:28.864 [main] Logging - warning
+[FATAL] 2020-02-29 16:47:28.864 [main] Logging - fatal message
+[INFO ] 2020-02-29 16:49:59.741 [main] Logging - info
+[ERROR] 2020-02-29 16:49:59.743 [main] Logging - error
+[WARN ] 2020-02-29 16:49:59.743 [main] Logging - warning
+[FATAL] 2020-02-29 16:49:59.743 [main] Logging - fatal message

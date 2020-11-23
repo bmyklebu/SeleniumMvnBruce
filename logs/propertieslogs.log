@@ -1,0 +1,8 @@
+[INFO ] 2020-02-28 10:56:04.100 [main] Logging - info
+[ERROR] 2020-02-28 10:56:04.102 [main] Logging - error
+[WARN ] 2020-02-28 10:56:04.102 [main] Logging - warning
+[FATAL] 2020-02-28 10:56:04.103 [main] Logging - fatal message
+[INFO ] 2020-02-28 11:08:40.219 [main] Logging - info
+[ERROR] 2020-02-28 11:08:40.220 [main] Logging - error
+[WARN ] 2020-02-28 11:08:40.221 [main] Logging - warning
+[FATAL] 2020-02-28 11:08:40.221 [main] Logging - fatal message
